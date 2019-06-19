@@ -20,6 +20,8 @@ This test should not take more than 4 hours to complete.
 
 ## Requirements
 
+This project should be forked into your personal account, and the work completed there. You should submit your repository URL when you have completed the work.
+
 When you first start writing new code in Terraform, you will typically need to perform a `terraform init`, to pull down the provider.
 
 You may also wish to check what your configuration will generate, you can do this with `terraform plan`.
