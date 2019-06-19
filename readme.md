@@ -26,6 +26,8 @@ You may also wish to check what your configuration will generate, you can do thi
 
 _One of the requirements will be to set up a load balancer, which typically would require an SSL certificate, but this is out of the scope of this exercise, so only HTTP resources will be required._
 
+This isn't an exhaustive list of every components required, some initiative will be required on your part.
+
 - A VPC with the CIDR: `123.0.0.0/16`
 
 - 2 Public Subnets
